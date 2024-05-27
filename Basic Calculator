@@ -5,7 +5,7 @@ class Solution {
     int sign =1;
     Dequeue<Integer>stack =new ArrayDeque<>();//Stack.peek():current env's sign stack.push(sign);
 
-fir(final char c :s toCharArray())
+for(final char c :s toCharArray())
 if(Character.usDigit(c))
 num=num*10+(c-'0');
 else if(c=='(')
